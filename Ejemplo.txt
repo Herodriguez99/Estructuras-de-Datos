@@ -1,0 +1,15 @@
+13
+awebley8,Master,0.549,2.44,35
+vsnaddon9,Challenger,0.85,3.83,183
+hsoulsbya,Grad Master,0.969,5.02,182
+mokkerb,Grad Master,0.622,2.85,96
+mmcnirlanc,Grad Master,0.565,4.59,231
+whuxsterd,Challenger,0.943,5.32,98
+odevanye,Challenger,0.791,4.59,57
+knattrissf,Master,0.82,3.85,62
+eshaylorg,Diamond,0.719,2.69,223
+apulequeh,Challenger,0.453,5.74,263
+rabrahimi,Diamond,0.548,2.61,148
+mcuttsj,Diamond,0.537,4.52,272
+mchurmk,Master,0.568,3.04,236
+
